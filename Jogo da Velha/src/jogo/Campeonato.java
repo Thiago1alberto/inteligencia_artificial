@@ -10,10 +10,6 @@ import java.util.Random;
 import java.util.Scanner;
 import jogadores.Jogador;
 
-/**
- *
- * @author tarci
- */
 public class Campeonato {
     private Jogador[] jogadores;
     private int tamanhoTabuleiro;
